@@ -1,5 +1,7 @@
 # jupyter notebook
 *.ipynb
+# R script
+*.R
 # keynote
 *.key
 
